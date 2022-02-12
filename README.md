@@ -27,6 +27,6 @@ All of these changes are then tracked and can be reverted if need be.
 
 Git is a specific open-source version control system created by Linus Torvalds in 2005.
 
-Specifically, Git is a distributed version control system, which means that the entire codebase and history is available on every developerโ«s computer, which allows for easy branching and merging.
+Specifically, Git is a distributed version control system, which means that the entire codebase and history is available on every developer’s computer, which allows for easy branching and merging.
 
 According to a [Stack Overflow developer survey](https://insights.stackoverflow.com/survey/2018/#work-version-control), over 87% of developers use Git.

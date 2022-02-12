@@ -11,9 +11,9 @@ At a high level, GitHub is a website and cloud-based service that helps develope
 
 ## What Is Version Control?
 
-Version control helps developers track and manage changes to a software projectโ«s code. As a software project grows, version control becomes essential. Take WordPressโ«ฆ
+Version control helps developers track and manage changes to a software project’s code. As a software project grows, version control becomes essential. Take WordPress…
 
-At this point, WordPress is a pretty big project. If a core developer wanted to work on one specific part of the WordPress codebase, it wouldnโ«t be safe or efficient to have them directly edit the โ«officialโ«‘ source code.
+At this point, WordPress is a pretty big project. If a core developer wanted to work on one specific part of the WordPress codebase, it wouldn’t be safe or efficient to have them directly edit the “official” source code.
 
 Instead, version control lets developers safely work through **branching** and **merging**.
 
